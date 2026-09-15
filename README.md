@@ -1,5 +1,5 @@
 # 📊 FMCG Sales Performance & Revenue Forecasting Dashboard
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard.PNG)
 
 An end-to-end interactive Power BI dashboard designed to analyze sales performance, regional revenue distribution, profitability, and 15-day revenue forecasting for a Fast-Moving Consumer Goods (FMCG) dataset.
 
